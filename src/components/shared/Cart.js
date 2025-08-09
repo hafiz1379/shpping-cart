@@ -19,7 +19,7 @@ const Cart = (props) => {
 
     return (
         <div className={styles.container} >
-            <img className={styles.productImage} src={image} />
+            <img alt='product' className={styles.productImage} src={image} />
             <div className={styles.data}>
                 <h3>{shorten(title)}</h3>
                 <p>{price} $</p>
