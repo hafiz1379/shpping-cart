@@ -2,6 +2,10 @@
 
 A modern, elegant, and fully-functional e-commerce shopping cart built with React, Context API, and [FakeStore API](https://fakestoreapi.com/). This project demonstrates scalable state management, component reusability, and a seamless user experience for online shopping.
 
+## 🌐 Live Preview
+Experience the app live here: [React FakeStore E-commerce App](https://shpping-cart-puc8.onrender.com/products)
+
+
 ## ✨ Features
 
 - **Product Listing:** Browse products fetched from FakeStore API
